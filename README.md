@@ -37,3 +37,8 @@ https://blog.naver.com/simonmatthew/222090665972
 
 https://storage.googleapis.com/openimages/web/index.html
 여기에 가면 많은 종류의 데이터와, 필요한 이미지의 박스정보까지 함께 제공된다 
+
+
+## 논문 정리
+![ex_screenshot](./images/yolo.PNG)
+이미지 인식은 이렇게 발전해 왔다. 
