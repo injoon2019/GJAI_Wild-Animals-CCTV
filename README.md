@@ -15,3 +15,8 @@
 <li>https://pjreddie.com/media/files/papers/YOLOv3.pdf  Yolov3 논문</li>
 </ol>
 
+## 시연 
+  ![ex_screenshot](./images/ppt1.PNG)
+  ![ex_screenshot](./images/ppt2.PNG)
+  ![ex_screenshot](./images/video1.PNG)
+  ![ex_screenshot](./images/video2.PNG)
