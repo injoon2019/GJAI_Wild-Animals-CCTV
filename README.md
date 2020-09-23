@@ -7,6 +7,8 @@
 기존의 cctv에 이미지 분류를 활용하면 동물들이 나타났을 때, 자동으로 알림이 뜨게하는 기능 추가
 
 ### 사용 기술: Yolov3 와 Yolov4 
-https://pjreddie.com/darknet/yolo/ YoloV3 웹사이트
-https://pjreddie.com/media/files/papers/YOLOv3.pdf  Yolov3 논문
+<ol>
+<li>https://pjreddie.com/darknet/yolo/ YoloV3 웹사이트</li>
+<li>https://pjreddie.com/media/files/papers/YOLOv3.pdf  Yolov3 논문</li>
+</ol>
 
