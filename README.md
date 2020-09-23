@@ -40,5 +40,5 @@ https://storage.googleapis.com/openimages/web/index.html
 
 
 ## 논문 정리
-![ex_screenshot](./images/yolo.PNG)
+![ex_screenshot](./images/yolo.png)
 이미지 인식은 이렇게 발전해 왔다. 
